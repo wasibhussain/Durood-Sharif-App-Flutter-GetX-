@@ -9,6 +9,7 @@ class LanguageTranslation extends Translations {
     'category2': 'Tasbeeh Counter',
     'category3': 'Islamic Date',
     'category4': 'Qibla Direction',
+    'chooseLanguage':'Choose Language',
     'clearButton': 'Clear',
     
   },
@@ -19,6 +20,7 @@ class LanguageTranslation extends Translations {
     'category2': 'تسبیح کاؤنٹر',
     'category3': 'اسلامی تاریخ',
     'category4': 'قبلہ رخ',
+    'chooseLanguage':'زبان تبدیل کریں',
     'clearButton': 'صاف کریں',
     
   }
